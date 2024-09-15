@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\project\course"/>
+			<item value="C:\Users\arthu\Downloads\workshop-springboot3-jpa-d6d8d8858b3112cd1529b86f689b9340b6054ff4"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
